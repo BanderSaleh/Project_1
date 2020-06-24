@@ -21,7 +21,7 @@ class Material
   end
   
   def print_info
-    p "here is the info"
+    p "Here is the info:"
     p "#{@color} Is Worth #{@price} And Located At #{@location}"
   end
 end
